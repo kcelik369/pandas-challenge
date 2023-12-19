@@ -1,1 +1,2 @@
-# pandas-challenge
+My work for this module is found in "PyCitySchools/PyCitySchools.ipynb", which is a modified version of the starter code provided for this challenge. It can be run in Jupyter Lab to repeat the data analysis. My written report can be found at the top of the .ipynb file. 
+I have chosen to exclude the ".ipynb_checkpoints" file that auto-generated while working in Jupyter Labs, for clarity. If that file would be useful in grading / evaluation, please leave a comment on the GitHub repository or in the grading feedback and I will resubmit with that file present.
